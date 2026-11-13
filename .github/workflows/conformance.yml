@@ -9,4 +9,4 @@ jobs:
   conformance:
     permissions:
       contents: read
-    uses: nexusadvisory/eng-standard/.github/workflows/conformance.yml@27ab5c1985af1b0aebe2ed45ca7fded2dc75ba07
+    uses: nexusadvisory/eng-standard/.github/workflows/conformance.yml@e77c1e3b9bbcd7832b6a5089105ee9d0b379f644
