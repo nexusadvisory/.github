@@ -1,0 +1,12 @@
+name: conformance
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  conformance:
+    permissions:
+      contents: read
+    uses: nexusadvisory/eng-standard/.github/workflows/conformance.yml@f4049bcba9bdf0d33b11407dd2f18a4392dcd01b
