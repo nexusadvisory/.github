@@ -1,0 +1,7 @@
+{
+  "product": ".github",
+  "org": "nexusadvisory",
+  "deploy": "none",
+  "hosts": [],
+  "ui": "none"
+}
